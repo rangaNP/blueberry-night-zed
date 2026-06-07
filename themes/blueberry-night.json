@@ -10,7 +10,7 @@
           "#5a9dfa",
           "#3884ff",
           "#a792ff",
-          "#be5381",
+          "#38a6c2",
           "#6965da"
         ],
 
@@ -41,7 +41,7 @@
         "title_bar.inactive_background": "#0c121d",
 
         "toolbar.background": "#0c121d",
-        
+
         "status_bar.background": "#1a2f55",
 
         "text": "#dcecff",
@@ -252,7 +252,7 @@
             "color": "#3884ff"
           },
           "string": {
-            "color": "#be5381"
+            "color": "#38a6c2"
           },
           "string.special": {
             "color": "#3884ff"
@@ -264,10 +264,10 @@
             "color": "#13abd9"
           },
           "string.special.symbol": {
-            "color": "#be5381"
+            "color": "#38a6c2"
           },
           "character": {
-            "color": "#be5381"
+            "color": "#38a6c2"
           },
           "punctuation": {
             "color": "#3884ff"
@@ -351,7 +351,7 @@
             "color": "#af6acd"
           },
           "text.literal": {
-            "color": "#af98ff"
+            "color": "#38a6c2"
           },
           "tag": {
             "color": "#6fa8ff"
