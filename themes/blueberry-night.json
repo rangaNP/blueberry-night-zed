@@ -20,7 +20,7 @@
         "border.focused": "#3f7dd6",
         "border.selected": "#3f7dd6",
         "border.transparent": "#0c121d",
-        "border.variant": "#0c192d",
+        "border.variant": "#1a2f55",
 
         "surface.background": "#0c192d",
         "elevated_surface.background": "#18273b",
@@ -40,8 +40,8 @@
         "title_bar.background": "#0c121d",
         "title_bar.inactive_background": "#0c121d",
 
-        "toolbar.background": "#0c192d",
-
+        "toolbar.background": "#0c121d",
+        
         "status_bar.background": "#1a2f55",
 
         "text": "#dcecff",
